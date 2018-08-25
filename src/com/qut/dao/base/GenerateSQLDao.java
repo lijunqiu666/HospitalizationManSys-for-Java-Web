@@ -117,13 +117,4 @@ public class GenerateSQLDao extends BaseDao {
 		list=super.executeQuery(sql, params);		
 		return list;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }

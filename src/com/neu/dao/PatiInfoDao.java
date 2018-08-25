@@ -1,4 +1,5 @@
 package com.neu.dao;
+import com.neu.dao.base.GenerateSQLDao;
 
 public class PatiInfoDao extends GenerateSQLDao {
 

@@ -3,7 +3,7 @@
  */
 package com.neu.dao;
 
-import com.neu.dao.GenerateSQLDao;
+import com.neu.dao.base.GenerateSQLDao;
 
 /**
  * @author Administrator
